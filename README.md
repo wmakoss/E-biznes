@@ -10,7 +10,7 @@
 
 :white_check_mark: 4.5 wymaganie 4 [Link do commita 4](https://github.com/wmakoss/E-biznes/commit/78c7b163fb9b3fce6720543308014f679eebe57b)
 
-:x: 5.0 wymaganie 5 
+:white_check_mark: 5.0 wymaganie 5 [Link do commita 5](https://github.com/wmakoss/E-biznes/commit/f52e25ee396476b1ac727e751252056a9233c620)
 
 
 Kod: [Zadanie 1](https://github.com/wmakoss/E-biznes/tree/main/zadanie%201)
