@@ -22,10 +22,10 @@ RUN apt-get install -y curl
 
 RUN curl -s "https://get.sdkman.io" | bash
 
-RUN bash -c "source /root/.sdkman/bin/sdkman-init.sh && sdk install kotlin && sdk install gradle"
+RUN bash -c "source /root/.sdkman/bin/sdkman-init.sh && sdk install kotlin && sdk install gradle 8.6"
 
 COPY ./application /root/application
 
 WORKDIR /root/application
 
-CMD ["/bin/bash"]
+CMD ["/root/.sdkman/candidates/gradle/8.6/bin/gradle", "run"]
