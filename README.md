@@ -4,7 +4,7 @@
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/19ac44dcdf54f77e7cbd244082d75f4d9da0fb73)
 
-:white_check_mark: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/wmakoss/E-biznes/commit/24cfdaa876c69ea50f37faf378f16281bfe2fc11)
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/E-biznes/commit/24cfdaa876c69ea50f37faf378f16281bfe2fc11)
 
 :x: 4.0 wymaganie 3 
 
