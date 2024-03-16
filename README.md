@@ -13,4 +13,4 @@
 :x: 5.0 wymaganie 5 
 
 
-Kod: 
+Kod: [Zadanie 1](https://github.com/wmakoss/E-biznes/tree/main/zadanie%201)
