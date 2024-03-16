@@ -12,4 +12,18 @@ RUN apt-get update
 
 RUN env DEBIAN_FRONTEND="noninteractive" apt-get install -y python3.8
 
-CMD ["python3.8", "--version"]
+RUN apt-get install -y openjdk-8-jdk
+
+RUN apt-get install -y unzip
+
+RUN apt-get install -y zip
+
+RUN apt-get install -y curl
+
+RUN curl -s "https://get.sdkman.io" | bash
+
+RUN bash -c "source /root/.sdkman/bin/sdkman-init.sh && sdk install kotlin"
+
+WORKDIR /root
+
+CMD ["/bin/bash"]
