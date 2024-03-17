@@ -1,5 +1,7 @@
 # E-biznes
 
+[Link do zadan](https://github.com/kprzystalski/ebiznes24)
+
 **Zadanie 1** Docker
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/19ac44dcdf54f77e7cbd244082d75f4d9da0fb73)
