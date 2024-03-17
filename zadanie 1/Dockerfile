@@ -28,4 +28,6 @@ COPY ./application /root/application
 
 WORKDIR /root/application
 
+EXPOSE 8080
+
 CMD ["/root/.sdkman/candidates/gradle/8.6/bin/gradle", "run"]
