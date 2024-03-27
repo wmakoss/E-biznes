@@ -16,3 +16,18 @@
 
 
 Kod: [Zadanie 1](https://github.com/wmakoss/E-biznes/tree/main/zadanie%201)
+
+**Zadanie 2** Scala
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/e1098662dd454d971598dc5f18ac49969f5e6f12)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/E-biznes/commit/e1098662dd454d971598dc5f18ac49969f5e6f12)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 2](https://github.com/wmakoss/E-biznes/tree/main/zadanie%202)
