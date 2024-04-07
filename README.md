@@ -31,3 +31,18 @@ Kod: [Zadanie 1](https://github.com/wmakoss/E-biznes/tree/main/zadanie%201)
 
 
 Kod: [Zadanie 2](https://github.com/wmakoss/E-biznes/tree/main/zadanie%202)
+
+**Zadanie 3** Kotlin
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/c034b7eef64197e724301b30468b06073fa0e9a4)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/E-biznes/commit/c034b7eef64197e724301b30468b06073fa0e9a4)
+
+:white_check_mark: 4.0 wymaganie 3 [Link do commita 3](https://github.com/wmakoss/E-biznes/commit/c034b7eef64197e724301b30468b06073fa0e9a4)
+
+:white_check_mark: 4.5 wymaganie 4 [Link do commita 4](https://github.com/wmakoss/E-biznes/commit/c034b7eef64197e724301b30468b06073fa0e9a4)
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 3](https://github.com/wmakoss/E-biznes/tree/main/zadanie%203)
