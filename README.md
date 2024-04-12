@@ -46,3 +46,18 @@ Kod: [Zadanie 2](https://github.com/wmakoss/E-biznes/tree/main/zadanie%202)
 
 
 Kod: [Zadanie 3](https://github.com/wmakoss/E-biznes/tree/main/zadanie%203)
+
+**Zadanie 4** Go
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/b0b4c6ffe47f5533121fdaabca8f4fbdebd20f51)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 4](https://github.com/wmakoss/E-biznes/tree/main/zadanie%204)
