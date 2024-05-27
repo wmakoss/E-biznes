@@ -10,3 +10,7 @@ https://github.com/wmakoss/E-biznes/assets/71134532/67627309-36cc-4a91-a747-f525
 **Zadanie 3**
 
 https://github.com/wmakoss/E-biznes/assets/71134532/26c0cd08-a85b-464b-aa93-b3400651595b
+
+**Zadanie 4**
+
+https://github.com/wmakoss/E-biznes/assets/71134532/1688d1a8-78a0-4036-9ad3-3a8f725e2e09
