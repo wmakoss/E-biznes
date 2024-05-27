@@ -1,0 +1,20 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.products
+{
+    /*color: red;*/
+    float: left;
+    width: 50vw;
+    padding: 50px;
+}
+
+.payment
+{
+    /*color: lime;*/
+    float: left;
+    width: 50vw;
+    padding: 50px;
+}
