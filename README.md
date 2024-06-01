@@ -76,3 +76,18 @@ Kod: [Zadanie 4](https://github.com/wmakoss/E-biznes/tree/main/zadanie%204)
 
 
 Kod: [Zadanie 5](https://github.com/wmakoss/E-biznes/tree/main/zadanie%205)
+
+**Zadanie 6** Testy
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/1cf5174bc44871f0849557131e3fba764d72520f)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/E-biznes/commit/1cf5174bc44871f0849557131e3fba764d72520f)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 6](https://github.com/wmakoss/E-biznes/tree/main/zadanie%206)
