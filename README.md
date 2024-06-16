@@ -91,3 +91,18 @@ Kod: [Zadanie 5](https://github.com/wmakoss/E-biznes/tree/main/zadanie%205)
 
 
 Kod: [Zadanie 6](https://github.com/wmakoss/E-biznes/tree/main/zadanie%206)
+
+**Zadanie 7** Sonar
+
+:x: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3 
+
+:white_check_mark: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 7](https://github.com/wmakoss/SonarCloudTest)
