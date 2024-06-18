@@ -106,3 +106,18 @@ Kod: [Zadanie 6](https://github.com/wmakoss/E-biznes/tree/main/zadanie%206)
 
 
 Kod: [Zadanie 7](https://github.com/wmakoss/SonarCloudTest)
+
+**Zadanie 8** Oauth2
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/e34318e6e60d952a0c36b1b886e29cd08085a1dd)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/E-biznes/commit/e34318e6e60d952a0c36b1b886e29cd08085a1dd)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 8](https://github.com/wmakoss/E-biznes/tree/main/zadanie%208)
