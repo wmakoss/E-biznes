@@ -136,3 +136,18 @@ Kod: [Zadanie 8](https://github.com/wmakoss/E-biznes/tree/main/zadanie%208)
 
 
 Kod: [Zadanie 9](https://github.com/wmakoss/E-biznes/tree/main/zadanie%209)
+
+**Zadanie 10** Chmura/CI
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/f3c731676f7397498ab5730d2762c127a4db4cda)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 10](https://github.com/wmakoss/E-biznes/tree/main/zadanie%2010)
