@@ -22,3 +22,7 @@ https://github.com/wmakoss/E-biznes/assets/71134532/94984741-8ad4-4c46-ae8c-fb67
 **Zadanie 6**
 
 https://github.com/wmakoss/E-biznes/assets/71134532/f04ceb57-b7a2-4b02-b986-3fff9f0e4f83
+
+**Zadanie 8**
+
+https://github.com/wmakoss/E-biznes/assets/71134532/d7c0c3a7-7254-47b3-b0b3-47dc8a0e4378
