@@ -121,3 +121,18 @@ Kod: [Zadanie 7](https://github.com/wmakoss/SonarCloudTest)
 
 
 Kod: [Zadanie 8](https://github.com/wmakoss/E-biznes/tree/main/zadanie%208)
+
+**Zadanie 9** ChatGPT bot
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/E-biznes/commit/d8fe55059efadc15a58ab3bced71a6b7ba86f1ed)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5 
+
+
+Kod: [Zadanie 9](https://github.com/wmakoss/E-biznes/tree/main/zadanie%209)
